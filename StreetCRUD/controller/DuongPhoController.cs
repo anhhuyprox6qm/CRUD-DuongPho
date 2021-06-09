@@ -114,7 +114,7 @@ namespace StreetCRUD.controller
                 }
                 else
                 {
-                    Console.WriteLine("Có lỗi, vui lòg thử lại!");
+                    Console.WriteLine("Có lỗi, vui lòng thử lại!");
                 }
             }
         }
